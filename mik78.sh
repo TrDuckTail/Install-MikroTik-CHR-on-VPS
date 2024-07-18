@@ -3,7 +3,7 @@
 echo
 echo "=== azadrah.org ==="
 echo "=== https://github.com/azadrahorg ==="
-echo "=== MikroTik 7 Installer ==="
+echo "=== MikroTik CHR 7 Installer ==="
 echo
 sleep 3
 wget https://download.mikrotik.com/routeros/7.12.1/chr-7.12.1.img.zip -O chr.img.zip  && \
