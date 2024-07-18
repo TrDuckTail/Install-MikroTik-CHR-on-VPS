@@ -1,6 +1,6 @@
 # Install-MikroTik-CHR-on-VPS
 Easy way for install Mikrotik’s Cloud Hosted Router on any Cloud VM 
-"Byazadrahorg"
+"By azadrahorg"
 
 ## Prerequisites
 
@@ -36,7 +36,7 @@ ip route list | grep default | cut -d' ' -f 3
 For MikroTik CHR 6.48.6
 
 ```bash
-  bash -c "$(curl -L https://raw.githubusercontent.com/azadrahorg/Install-MikroTik-CHR-on-VPS/main/mik-6486.sh)"
+  bash -c "$(curl -L https://raw.githubusercontent.com/TrDuckTail/Install-MikroTik-CHR-on-VPS/main/mik-6486.sh)"
 ```
 
 For MikroTik CHR 7.15.2
